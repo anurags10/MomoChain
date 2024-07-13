@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/anuragsingh/MomoChain/contracts/Momo.sol": {
+      "lastModificationDate": 1720448295289,
+      "contentHash": "93aad93d6e97131072ec50f1dd710d36",
+      "sourceName": "contracts/Momo.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Momo"
+      ]
+    }
+  }
+}
